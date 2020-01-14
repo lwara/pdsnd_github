@@ -1,4 +1,7 @@
-### Date created
+
+###
+This code has been added by TIWONGE LWARA .... 
+### The Date created
 Include the date you created this project and README file.
 9th January 2020
 ### Project Title
@@ -6,8 +9,8 @@ Replace the Project Title
 BIKESHARE
 ### Description
 Describe what your project is about and what it does
-This is a python program that produces information abot Bicycles that are offered on rent.
-### Files used
+This is a python program that produces information about Bicycles that are offered on rent.
+### Files used in the project
 Include the files used
 
 ### Credits
