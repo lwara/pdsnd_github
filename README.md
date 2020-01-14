@@ -14,10 +14,13 @@ This is a python program that produces information about Bicycles that are offer
 Include the files used
 
 ### Credits
+ 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 i used the following sites :
 1.https://paulovasconcellos.com.br/28-useful-pandas-functions-you-might-not-know-de42c59db085
 2. https://www.geeksforgeeks.org/python-pandas-index-value_counts/
 3. www.github.com
 
+ 
+ 
 
